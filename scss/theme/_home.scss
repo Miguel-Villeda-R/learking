@@ -194,11 +194,7 @@
         z-index: -1;
         width: 340px;
         height: 340px;
-        background: linear-gradient(to bottom right, transparent 0%, transparent 50%, $primary-color 50%, $primary-color2 100%);
-        background: -webkit-linear-gradient(to bottom right, transparent 0%, transparent 50%, $primary-color 50%, $primary-color2 100%);
-        background: -moz-linear-gradient(to bottom right, transparent 0%, transparent 50%, $primary-color 50%, $primary-color2 100%);
-        background: -ms-linear-gradient(to bottom right, transparent 0%, transparent 50%, $primary-color 50%, $primary-color2 100%);
-        background: -o-linear-gradient(to bottom right, transparent 0%, transparent 50%, $primary-color 50%, $primary-color2 100%);
+       
         @media(max-width: 991px) {
             display: none;
         }
